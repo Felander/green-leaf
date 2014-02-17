@@ -110,7 +110,7 @@ display:inline;
 a.nav:link,a.nav:visited {
 display:block;
 float:left;
-width:24.5%;
+width:16%;
 padding:1.2em 0;
 margin:0;
 text-decoration:none;
@@ -122,7 +122,7 @@ text-shadow: 1px 1px 2px #000000;
 a.nav:hover {
 display:block;
 float:left;
-width:24.5%;
+width:16%;
 padding:1.2em 0;
 margin:0;
 text-decoration:none;
@@ -134,7 +134,7 @@ text-shadow: 1px 1px 2px #000000;
 a.nav:active {
 display:block;
 float:left;
-width:24.5%;
+width:16%;
 padding:1.2em 0;
 margin:0;
 text-decoration:none;
@@ -174,6 +174,13 @@ display:block;
 clear:left;
 text-align:left;
 margin:1.2em 13.5em 0 0;
+padding:1em 1ex 1em 1.5ex;
+}
+
+.content-inner {
+clear:left;
+text-align:left;
+margin:1.2em 0 0 0;
 padding:1em 1ex 1em 1.5ex;
 }
 
