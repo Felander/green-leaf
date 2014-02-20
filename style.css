@@ -177,6 +177,30 @@ margin:1.2em 13.5em 0 0;
 padding:1em 1ex 1em 1.5ex;
 }
 
+.left-content-services {
+clear:left;
+text-align:left;
+margin:1.2em 50em 0 0;
+padding:1em 1ex 1em 1.5ex;
+}
+
+.right-content-services {
+float:right;
+clear:both;
+width:49em;
+margin:1em 1em 0 0;
+padding:0;
+text-align: left;
+}
+
+.right-content-services h2 {
+text-indent:3em;
+}
+
+.left-content-services h2 {
+text-indent:3em;
+}
+
 .content-inner {
 clear:left;
 text-align:left;
@@ -188,6 +212,15 @@ padding:1em 1ex 1em 1.5ex;
 text-indent:3em;
 }
 
+.alt {
+background: #cccccc;
+border: solid 1px #858585;
+}
+.alt2{
+position: relative;
+background: #ececec;
+border: solid 1px #cccccc;
+}
 .footer {
 color:#999;
 font-size:75%;
