@@ -70,6 +70,7 @@ box-shadow: 0 0 15px 0 #999999;
 margin:0 auto;
 padding:0;
 width:65%;
+min-width: 1300px;
 margin-top:10px;
 }
 
