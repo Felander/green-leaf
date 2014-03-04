@@ -29,7 +29,7 @@ text-shadow: 1px 1px 2px #5F8730;
 h2 {
 background-color:#DDD;
 color:#5F8730;
-font-size:100%;
+font-size:150%;
 font-weight:400;
 margin:.2em;
 padding:5px;
@@ -37,7 +37,6 @@ font-style:italic;
 font-family:"Trebuchet MS", verdana, arial, sans-serif;
 -webkit-border-radius:5px 5px 5px 5px;
 border-radius:5px 5px 5px 5px;
-text-shadow: 1px 1px 2px #5F8730;
 }
 
 div {
@@ -215,14 +214,10 @@ text-indent:3em;
 }
 
 .alt {
-background: #cccccc;
+background: #B7C9A3;
 border: solid 1px #858585;
 }
-.alt2{
-position: relative;
-background: #ececec;
-border: solid 1px #cccccc;
-}
+
 .footer {
 color:#999;
 font-size:75%;
