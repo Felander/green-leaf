@@ -11,6 +11,7 @@ background-color:#DDD;
 p {
 margin:.2em 0 1.2em;
 padding:.3em;
+text-align: justify;
 }
 
 h1 {
@@ -163,7 +164,7 @@ border-radius:10px 10px 10px 10px;
 -webkit-border-radius:5px 5px 5px 5px;
 border-radius:5px 5px 5px 5px;
 text-align:left;
-padding:2px 0 2px 1.5em;
+padding:2px 0 2px .5em;
 }
 
 .linkbox a {
@@ -202,7 +203,6 @@ padding:1em 1ex 1em 1.5ex;
 }
 
 .content h2 {
-text-indent:3em;
 }
 
 .alt {
