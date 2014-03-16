@@ -1,6 +1,6 @@
 green-leaf
 ==========
 
-Green Leaf Website Project
+Greenleaf Website Project
 
-Website for Green Leaf Enterprises LLC
+Website for Greenleaf Enterprises LLC
